@@ -1,1 +1,2 @@
 # MonthDaysCounter
+"MonthDaysCounter" is a Python script that helps determine the number of days in a month. It prompts the user to enter a month (1 for January, 2 for February, etc.) and then calculates and displays the corresponding number of days. The script accounts for different month lengths, including 31 days for certain months (January, March, May, July, August, October, December), 30 days for others (April, June, September, November), and 28 days for February. It provides a quick reference for the number of days in a given month.
